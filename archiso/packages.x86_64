@@ -184,7 +184,7 @@ neofetch
 #systemctl enable vboxservice
 #systemctl start vboxservice
 #to have fullscreen
-virtualbox-guest-utils
+#virtualbox-guest-utils
 
 xf86-video-intel
 xf86-video-amdgpu
@@ -278,11 +278,11 @@ packagekit-qt5
 
 #utils
 gwenview
-gscan2pdf 
+#gscan2pdf 
 okular
 vlc
 yay
-pamac-aur 
+#pamac-aur 
 #cheese 
 mailspring
 gnome-keyring
