@@ -288,6 +288,7 @@ mailspring
 gnome-keyring
 fcitx5
 fcitx5-chinese-addons
+fcitx5-googlepinyin
 fcitx5-mozc
 flatpak
 discover
@@ -298,3 +299,7 @@ libreoffice-fresh
 #browser
 google-chrome
 opera-ffmpeg-codecs
+
+#epicfonts
+ttf-segoe-ui-variable
+noto-fonts-emoji
