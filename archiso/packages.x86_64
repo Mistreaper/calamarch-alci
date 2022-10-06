@@ -283,12 +283,12 @@ okular
 vlc
 yay
 pamac-aur 
-cheese 
+#cheese 
 mailspring
 gnome-keyring
 fcitx5
 fcitx5-chinese-addons
-fcitx5-googlepinyin
+#fcitx5-googlepinyin
 fcitx5-mozc
 flatpak
 discover
